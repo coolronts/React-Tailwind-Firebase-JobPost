@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import db from "./firebase";
+//import db from "./firebase";
 import {Route,BrowserRouter as Router, Switch} from "react-router-dom";
 import Listing from "./Pages/Lists";
 import SignUp from "./Pages/SignUp";
